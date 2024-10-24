@@ -31,3 +31,15 @@ public class Main {
 
     }
 }
+
+//del 25 al 30 (incluidos)
+/*
+int a = (int) (Math.random()*6)+25;
+int b = (int) (Math.random()*6)+25;
+if(numero == suma){
+                System.out.println("Suma correcta");
+            }else{
+                System.out.println("Suma incorrecta");
+            }
+ */
+//string mensaje = (suma == nuero)?sout("Suma correcta"):sout...;
